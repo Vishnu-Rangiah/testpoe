@@ -15,7 +15,7 @@ metadata = true
 vcs = "git"
 
 [tool.poetry-dynamic-versioning.substitution]
-file = "libby/__init__.py"
+file = "/Users/vishnu/testpoe/libby/__init__.py"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
